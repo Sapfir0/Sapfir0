@@ -4,6 +4,34 @@
 
 <a href="https://github.com/Sapfir0/CV/releases/latest/download/resume.pdf">Download my CV</a>
 
+
+## Infrastructure
+
+<hr>
+
+
+<img alt="Home Assistant" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
+
+[Home automatization](https://github.com/Sapfir0/home-assistant)
+
+<hr>
+
+<img alt="Home budgets" width='100px' src="https://github.com/Sapfir0/zerro/blob/master/public/icons/512px.png?raw=true"/>
+
+[Budgets](https://github.com/Sapfir0/zerro)
+
+<hr>
+
+
+
+
+[Base React application](https://github.com/Sapfir0/BaseReactApp)
+
+
+<hr>
+
+
+
 ## 💬 Social
 <a href="https://www.linkedin.com/in/yurevalexander"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
