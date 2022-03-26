@@ -5,27 +5,23 @@
 <a href="https://github.com/Sapfir0/CV/releases/latest/download/resume.pdf">Download my CV</a>
 
 
-## Infrastructure
-
-<hr>
+## Sapfir's ecosystem
 
 
+### Smart home
 <img alt="Home Assistant" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
 
-[Home automatization](https://github.com/Sapfir0/home-assistant)
+I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/home-assistant)
 
-<hr>
+[Here](https://habr.com/ru/company/singularis/blog/546072/) you can read about my automazation logic.
+
+
+### Financial system
 
 <img alt="Home budgets" width='100px' src="https://github.com/Sapfir0/zerro/blob/master/public/icons/512px.png?raw=true"/>
 
-[Budgets](https://github.com/Sapfir0/zerro)
+Self hosted app for contol our income and outcome. [Link to code.](https://github.com/Sapfir0/zerro)
 
-<hr>
-
-
-
-
-[Base React application](https://github.com/Sapfir0/BaseReactApp)
 
 
 <hr>
