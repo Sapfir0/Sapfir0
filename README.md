@@ -20,7 +20,17 @@ I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/
 
 <img alt="Home budgets" width='100px' src="https://github.com/Sapfir0/zerro/blob/master/public/icons/512px.png?raw=true"/>
 
-Self hosted app for contol our income and outcome. [Link to code.](https://github.com/Sapfir0/zerro)
+Self hosted app for contol our income and outcome. [Link to code.](https://github.com/Sapfir0/minecraft_server)
+
+
+
+
+### Minecraft server
+
+<img alt="Minecraft server" width='100px' src="https://steamuserimages-a.akamaihd.net/ugc/1698405840709208450/A5D8743F4A3B3046CEBBD68CAE3358700727FC4C/?imw=512&amp;imh=562&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
+
+Minecraft 1.18 self hosted server. [Link to code.](https://github.com/Sapfir0/zerro)
+
 
 
 
