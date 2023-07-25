@@ -1,4 +1,4 @@
-![image](https://github.com/Sapfir0/Sapfir0/assets/37454791/cd7e924a-8a70-42c0-a594-5a6047be2a8e)### Hi there 👋 I'm Alexander)
+### Hi there 👋 I'm Alexander)
 
 ![](https://komarev.com/ghpvc/?username=Sapfir0)
 
@@ -24,7 +24,7 @@ Rules for develop frontend projects. [Link to code.]([https://github.com/Sapfir0
 
 ### Template for small react app
 
-<img alt="React" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
+<img alt="React" width='100px' src="https://www.pvsm.ru/images/2018/11/06/kak-razvernut-okrujenie-dlya-razrabotki-prilojenii-na-React-Native.png"/>
 
 Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/BaseReactApp) 
 
