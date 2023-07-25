@@ -19,7 +19,7 @@ I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/
 
 <img alt="ESLint" width='100px' src="https://repository-images.githubusercontent.com/330626234/b9eb9c00-5aad-11eb-8099-f39fa4a1c7c7"/>
 
-Rules for develop frontend projects. [Link to code.]([https://github.com/Sapfir0/home-assistant](https://github.com/Sapfir0/eslint-config))
+Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/eslint-config)
 
 
 ### Template for small react app
