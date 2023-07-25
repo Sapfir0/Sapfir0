@@ -17,7 +17,7 @@ I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/
 
 ### ESLint config
 
-<img alt="ESLint" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
+<img alt="ESLint" width='100px' src="https://repository-images.githubusercontent.com/330626234/b9eb9c00-5aad-11eb-8099-f39fa4a1c7c7"/>
 
 Rules for develop frontend projects. [Link to code.]([https://github.com/Sapfir0/home-assistant](https://github.com/Sapfir0/eslint-config))
 
@@ -27,7 +27,6 @@ Rules for develop frontend projects. [Link to code.]([https://github.com/Sapfir0
 <img alt="React" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
 
 Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/BaseReactApp) 
-
 
 
 
