@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Alexander)
+![image](https://github.com/Sapfir0/Sapfir0/assets/37454791/cd7e924a-8a70-42c0-a594-5a6047be2a8e)### Hi there 👋 I'm Alexander)
 
 ![](https://komarev.com/ghpvc/?username=Sapfir0)
 
@@ -15,12 +15,18 @@ I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/
 
 [Here](https://habr.com/ru/company/singularis/blog/546072/) you can read about my automazation logic.
 
+### ESLint config
 
-### Financial system
+<img alt="ESLint" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
 
-<img alt="Home budgets" width='100px' src="https://github.com/Sapfir0/zerro/blob/master/public/icons/512px.png?raw=true"/>
+Rules for develop frontend projects. [Link to code.]([https://github.com/Sapfir0/home-assistant](https://github.com/Sapfir0/eslint-config))
 
-Self hosted app for contol our income and outcome. [Link to code.](https://github.com/Sapfir0/zerro)
+
+### Template for small react app
+
+<img alt="React" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
+
+Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/BaseReactApp) 
 
 
 
@@ -30,7 +36,6 @@ Self hosted app for contol our income and outcome. [Link to code.](https://githu
 <img alt="Minecraft server" width='100px' src="https://steamuserimages-a.akamaihd.net/ugc/1698405840709208450/A5D8743F4A3B3046CEBBD68CAE3358700727FC4C/?imw=512&amp;imh=562&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
 Minecraft 1.18 self hosted server. [Link to code.](https://github.com/Sapfir0/minecraft_server)
-
 
 
 
