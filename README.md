@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Sapfir0)
 
-<a href="https://github.com/Sapfir0/CV/releases/latest/download/resume.pdf">Download my CV</a>
+<a href="https://github.com/Sapfir0/CV/releases/latest/download/Iurev_Frontend_CV.pdf">Download my CV</a>
 
 
 ## Sapfir's ecosystem
