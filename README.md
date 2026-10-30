@@ -1,26 +1,22 @@
-### Hi there 👋 I'm Alexander)
+### Hi there 👋 I'm Aleksnadr
 
 ![](https://komarev.com/ghpvc/?username=Sapfir0)
 
 <a href="https://github.com/Sapfir0/CV/releases/latest/download/Iurev_Frontend_CV.pdf">Download my CV</a>
 
 
+### Hiking app
+
+List of all my recent hikes. [Where I have been?](sapfir0.github.io/hiking-storage/)
+
+[Link to code.](https://github.com/Sapfir0/hiking-storage)
+
+
 ## Sapfir's ecosystem
 
+### Home server
 
-### Smart home
-<img alt="Home Assistant" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
-
-I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/home-assistant)
-
-[Here](https://habr.com/ru/company/singularis/blog/546072/) you can read about my automazation logic.
-
-### ESLint config
-
-<img alt="ESLint" width='100px' src="https://repository-images.githubusercontent.com/330626234/b9eb9c00-5aad-11eb-8099-f39fa4a1c7c7"/>
-
-Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/eslint-config)
-
+Self hosted portainer-based stack of appliactions. [Link to code.](https://github.com/Sapfir0/HomeApps)
 
 ### Template for small react app
 
@@ -28,14 +24,18 @@ Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/
 
 Rules for develop frontend projects. [Link to code.](https://github.com/Sapfir0/BaseReactApp) 
 
-
-
 ### Minecraft server
 
 <img alt="Minecraft server" width='100px' src="https://steamuserimages-a.akamaihd.net/ugc/1698405840709208450/A5D8743F4A3B3046CEBBD68CAE3358700727FC4C/?imw=512&amp;imh=562&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"/>
 
 Minecraft 1.18 self hosted server. [Link to code.](https://github.com/Sapfir0/minecraft_server)
 
+### Smart home
+<img alt="Home Assistant" width='100px' src="https://play-lh.googleusercontent.com/iS3Wa525QXuFdSkWi-s45GUK4oiPpOgmWQosv81pk0P1dF8Al6opybbofk5v-5hTQhua"/>
+
+I have Home Assistant as Smart Home. [Link to code.](https://github.com/Sapfir0/home-assistant)
+
+[Here](https://habr.com/ru/company/singularis/blog/546072/) you can read about my automazation logic.
 
 
 <hr>
