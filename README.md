@@ -7,7 +7,7 @@
 
 ### Hiking app
 
-List of all my recent hikes. [Where I have been?](sapfir0.github.io/)
+List of all my recent hikes. [Where I have been?](https://sapfir0.github.io/)
 
 [Link to code.](https://github.com/Sapfir0/Sapfir0.github.io)
 
